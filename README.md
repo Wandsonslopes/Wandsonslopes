@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre
 
-👋 Olá! Sou um Desenvolvedor Full Stack em transição de carreira, movido pela curiosidade e pela vontade de construir soluções digitais que realmente façam a diferença.
+👋 Olá! Sou um Desenvolvedor Full Stack em transição de carreira, motivado pela oportunidade de criar soluções inovadoras e impactantes em um mundo cada vez mais digital.
 
 Concluí recentemente o bootcamp da Generation Brasil em Desenvolvimento Web Full Stack e o bootcamp em Desenvolvimento Mobile Full Stack da Dio, consolidando minha base técnica para atuar em projetos web e mobile.
 
