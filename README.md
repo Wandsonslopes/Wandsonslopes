@@ -2,13 +2,13 @@
 
 👋 Olá! Sou um Desenvolvedor Full Stack motivado pela oportunidade de criar soluções inovadoras e impactantes em um mundo cada vez mais digital.
 
-Concluí recentemente o bootcamp da Generation Brasil em Desenvolvimento Web Full Stack e o bootcamp em Desenvolvimento Mobile Full Stack da Dio, consolidando minha base técnica para atuar em projetos web e mobile.
+📚 Busco estar sempre atualizado por meio de cursos e certificações, aplicando o que aprendo em projetos práticos que fortalecem minha base técnica e me preparam para atuar em soluções web e mobile.
 
-Antes da tecnologia, atuei por 8 anos no setor de seguros, onde desenvolvi habilidades sólidas em vendas, negociação e análise de dados, sempre com foco em resultados e em gerar valor para clientes e empresas. Essa experiência me trouxe visão estratégica e capacidade de lidar com desafios complexos, competências que aplico agora no desenvolvimento de software.
+🤝 Antes da tecnologia, atuei por 8 anos no setor de seguros, onde desenvolvi habilidades sólidas de negociação, análise de dados e gestão, sempre com foco em resultados e em gerar valor para clientes e empresas. Essa experiência me trouxe visão estratégica e capacidade de lidar com desafios complexos, competências que aplico agora no desenvolvimento de software.
 
-Acredito que persistência, dedicação, proatividade e adaptabilidade são minhas maiores forças — e é com elas que enfrento desafios, aprendo novas tecnologias e contribuo em projetos que unem criatividade e impacto.
+🚀 Aqui no meu GitHub você encontrará projetos que refletem minha jornada de aprendizado, meu interesse por tecnologia e minha dedicação em transformar ideias em soluções digitais.
 
-🚀 Estou sempre em busca de aprender, evoluir e transformar ideias em soluções digitais!
+✨ Fique à vontade para explorar, contribuir e compartilhar conhecimentos!
 
 ---
 
